@@ -8,4 +8,11 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>ignore/DevOps</name>
+			<type>2</type>
+			<location>//Omega.dce-eir.net/natdfs/CRA/HQ/ITB/ITB_H19/UV2/MXL125/HomeDir/My Documents/Tools/DevOps</location>
+		</link>
+	</linkedResources>
 </projectDescription>

@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-=======
-klfjsdlkfj
->>>>>>> branch 'master' of https://github.com/mike-lam2/test1.git
